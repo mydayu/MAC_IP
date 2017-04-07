@@ -51,7 +51,7 @@ ID	MAC地址			IP地址		状态	名字			别名			更改
   45	FC-1A-11-E2-C7-68	192.168.1.144	已绑定	晏永强(话)		YanYongQiang_phone_vivo	
   46	84-8E-0C-E0-C3-04	192.168.1.145	已绑定	刘彦海（板）		LiuYH_ipad_wifi		
   47	3C-DF-BD-1E-79-A3	192.168.1.146	已绑定	刘航冶(话2)		LiuHY_phone2
-  48	50-32-75-5F-AD-85	192.168.1.147	已绑定	刘彦海（话）		LiuYH_phone		20160712:20-82-C0-6B-AF-66
+  48	98-10-E8-8C-87-32	192.168.1.147	已绑定	刘彦海（话）		LiuYH_phone
   49	B0-E2-35-01-0F-99	192.168.1.148	已绑定	钟会（话）		ZhongHui_phone_mi
   50	D4-20-6D-F1-C0-AD	192.168.1.149	已绑定	龚弟云(话Mi4)		GDY_Phone_mi4		
   51	14-9F-E8-9E-64-32	192.168.1.150	已绑定	张霞(话2)		ZhangXia_Phone_Lenovo	 
@@ -62,7 +62,7 @@ ID	MAC地址			IP地址		状态	名字			别名			更改
   56	08-63-61-ED-02-02	192.168.1.155	已绑定	邵东旭(话)		ShaoDX_phone_huawei	**00-23-76-66-C8-DE
   57	00-12-FE-99-66-23	192.168.1.156	已绑定	黄夏(话2)	 	HuangXia_phone_Lenovo
   58	E0-DB-55-EE-D3-39	192.168.1.157	已绑定	龚弟云(Book2_LINE)	GDY_book2_line
-  59	C8-F6-50-E2-47-39	192.168.1.158	已绑定	刘继军(ipad)		LiuJiJun_ipad5
+  59	94-E9-6A-03-60-90	192.168.1.158	已绑定	刘侃弦(ipad)		LKX_iPAD_WIFI
   60	64-6C-B2-AC-49-07	192.168.1.159	已绑定	李昌（PAD_Samsung）	LiChang_Pad_Samsung 
   61	40-F0-2F-5B-31-EE	192.168.1.160	已绑定	刘侃弦（本）		LiuKX_book_wifi
   62	14-F6-5A-AB-8E-3F	192.168.1.161	已绑定	黄夏（话3）		HuangXia_phone_Mi4	14:F6:5A:AB:8E:3F
@@ -97,6 +97,8 @@ ID	MAC地址			IP地址		状态	名字			别名			更改
   91	E4-B3-18-32-60-6D	192.168.1.190	已绑定	郭军(DELL本)		GuoJun_Dell_Book_wifi
   92	E8-4E-84-6B-BD-F8	192.168.1.191	已绑定	 
   93	F4-E3-FB-80-C9-CA	192.168.1.192	已绑定	晏婵(话Huawei)		YanChan_phone_HuaWei
+  94	50-9E-A7-D2-D8-4F	192.168.1.193
+  95	48-D2-24-3D-82-CC	192.168.1.194	已绑定	晏婵(本ASUS)		YanChan_book_ASUS
 
 已删除
 00-18-DE-72-B7-46		192.168.1.123	已绑定	王胜利(本)	
@@ -116,3 +118,4 @@ CC-07-E4-A7-70-9A		192.168.1.123	已绑定	huangchao(话)		NieJZ_phone
 34-AA-8B-1F-4C-6F		192.168.1.109	已绑定	王成(话)			WangCheng_phone
 B8-C7-5D-4E-BB-32					余永光(ipod)
 E4-40-E2-47-AF-94		192.168.1.112	已绑定	麦涛(板)			MT_PAD
+C8-F6-50-E2-47-39		192.168.1.158	已绑定	刘继军(ipad)		LiuJiJun_ipad5
