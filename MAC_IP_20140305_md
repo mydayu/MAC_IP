@@ -56,7 +56,7 @@ ID	MAC地址			IP地址		状态	名字			别名			更改
   50	D4-20-6D-F1-C0-AD	192.168.1.149	已绑定	龚弟云(话Mi4)		GDY_Phone_mi4		
   51	C4-0B-CB-89-38-8B	192.168.1.150	已绑定	张霞(话2)		ZhangXia_Phone_Mi5S	 
   52	A4-CA-A0-88-F3-7B	192.168.1.151	已绑定	朱樵(话1)		ZhuQiao_Phone_Huawei_RY8
-  53	00-21-00-46-6E-1D	192.168.1.152	已绑定	刘彦海（本）		LiuYH_book_wifi           *
+  53	54-EF-92-E2-A1-E7	192.168.1.152	已绑定	周国平(板)		ZhouGuoPing_PAD_wifi
   54	8C-BE-BE-CE-F3-66	192.168.1.153	已绑定	谢瑞（话）		XieRui_phone_wifi
   55	68-94-23-A4-E6-13	192.168.1.154	已绑定	刘宇承(本)		LiuYC_book_wifi		*38-BC-1A-91-63-F1
   56	08-63-61-ED-02-02	192.168.1.155	已绑定	邵东旭(话)		ShaoDX_phone_huawei	**00-23-76-66-C8-DE
@@ -99,6 +99,7 @@ ID	MAC地址			IP地址		状态	名字			别名			更改
   93	F4-E3-FB-80-C9-CA	192.168.1.192	已绑定	晏婵(话Huawei)		YanChan_phone_HuaWei
   94	50-9E-A7-D2-D8-4F	192.168.1.193	已绑定	
   95	48-D2-24-3D-82-CC	192.168.1.194	已绑定	晏婵(本ASUS)		YanChan_book_ASUS
+  
 
 已删除
 00-18-DE-72-B7-46		192.168.1.123	已绑定	王胜利(本)	
