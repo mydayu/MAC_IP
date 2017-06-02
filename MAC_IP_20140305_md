@@ -40,9 +40,9 @@ ID	MAC地址			IP地址		状态	名字			别名			更改
   34	20-08-ED-46-FA-54	192.168.1.133	已绑定	周可(话)			ZhouKe_phone	                        
   35	BC-4C-C4-DD-A4-9F	192.168.1.134	已绑定	李艳君(话1)	 	Li_iphone
   36	B8-09-8A-B7-64-49	192.168.1.135	已绑定	余永光(BCM)	 	mydayu_WIFI_BCM
-  37	F0-7B-CB-9D-9B-F6	192.168.1.136	已绑定	王娟(本)			WangJuan_book_wifi
+  37	30-B4-9E-5E-8D-0D	192.168.1.136	已绑定	腾越N10_1(本)		TengYue_N10_1_wifi
   38	C4-6A-B7-53-9E-84	192.168.1.137	已绑定	刘航冶(话)		LiuHY_phone 
-  39	00-21-85-13-1E-C0	192.168.1.105	已绑定	余永光(台)	 	mydayu_desktop
+  39	DC-6D-CD-1A-93-31	192.168.1.138	已绑定	玉凤(话)	 		YuFeng_Phone_OPPO
   40	64-E6-82-CA-A6-CF	192.168.1.139	已绑定	李艳君(板)		Li(ipad2)
   41	C0-CC-F8-EF-B8-A6	192.168.1.140	已绑定	余永光(话2)		mydayu_iPhoneSE
   42	E0-06-E6-F9-96-DF	192.168.1.141	已绑定	李昌(本Acer)	 	Lichang_book_acer
@@ -72,7 +72,7 @@ ID	MAC地址			IP地址		状态	名字			别名			更改
   66	8C-EB-C6-0A-B6-C8	192.168.1.165	已绑定	袁锦山（话）		YuanJS_phone_mi
   67	CC-2D-83-1A-22-B8	192.168.1.166	已绑定	刘鹏鹏           	LiuPP_Phone_oppo
   68	38-BC-1A-E8-90-8F	192.168.1.167	已绑定	王娟（话）		WangJuan_phone_mi
-  69	38-BC-1A-21-C6-8C	192.168.1.168	已绑定	刘宇承(话)		LiuYC_phone_wifi
+  69	30-B4-9E-5D-CE-20	192.168.1.168	已绑定	腾越N10_2		TengYue_N10_2_Wifi
   70	28-E1-4C-B6-9C-D3	192.168.1.169	已绑定	刘坚（话２）		Liu_Phone_ip5s_wifi
   71	FC-64-BA-5B-4C-B0	192.168.1.170	已绑定	龚弟云(话mi4c)		GDY_Phone_mi4C
   72	AC:CF:5C:D8:4C:E2	192.168.1.171	已绑定	张元祥（话iphone4）	ZhangYuanXiang_phone_iphone4
@@ -99,7 +99,10 @@ ID	MAC地址			IP地址		状态	名字			别名			更改
   93	F4-E3-FB-80-C9-CA	192.168.1.192	已绑定	晏婵(话Huawei)		YanChan_phone_HuaWei
   94	50-9E-A7-D2-D8-4F	192.168.1.193	已绑定	
   95	48-D2-24-3D-82-CC	192.168.1.194	已绑定	晏婵(本ASUS)		YanChan_book_ASUS
-  
+  96	CC-2D-83-40-1E-98	192.168.1.195	已绑定	杨佳超(话oppo)		YangJiaChao_phone_oppo
+  97
+  98	
+  99
 
 已删除
 00-18-DE-72-B7-46		192.168.1.123	已绑定	王胜利(本)	
@@ -122,3 +125,5 @@ E4-40-E2-47-AF-94		192.168.1.112	已绑定	麦涛(板)			MT_PAD
 C8-F6-50-E2-47-39		192.168.1.158	已绑定	刘继军(ipad)		LiuJiJun_ipad5
 F8-F1-B6-FA-08-81		192.168.1.127	已绑定	余永光(话)		mydayu_phone_motoX	
 68-DF-DD-66-76-15		192.168.1.113	已绑定	龚弟云(话)		(GDY_Phone_mi4C)
+F0-7B-CB-9D-9B-F6		192.168.1.136	已绑定	王娟(本)			WangJuan_book_wifi
+38-BC-1A-21-C6-8C		192.168.1.168	已绑定	刘宇承(话)		LiuYC_phone_wifi
